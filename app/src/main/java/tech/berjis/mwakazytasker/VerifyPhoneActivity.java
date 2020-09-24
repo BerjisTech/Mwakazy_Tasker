@@ -151,7 +151,7 @@ public class VerifyPhoneActivity extends AppCompatActivity {
                             user.put("country_code", country_code);
                             user.put("user_id", UID);
                             user.put("user_phone", UPhone);
-                            user.put("user_type", "default");
+                            user.put("user_type", "tasker");
                             user.put("user_image", "");
                             user.put("user_email", "");
                             user.put("user_name", "");
